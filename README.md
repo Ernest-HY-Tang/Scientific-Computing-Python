@@ -1,4 +1,4 @@
-# Python for Sciences 🧪 (Completed)
+# Scientific Computing & Modelling 🧪 (Completed)
 
 ## Introduction
 This project was inspired by my A-Level Physics and Chemistry syllabus, in which I wanted to display various concepts using Python, with the Pendulum Analysis directly linking to one of my Physics presentations.
@@ -8,7 +8,7 @@ This project was inspired by my A-Level Physics and Chemistry syllabus, in which
 .
 ├── 01_SUVAT/
 │   ├── README.md              # Basics
-│   └── solver.py              # Starter project to calculate SUVAT
+│   └── solver.py              # Analytical calculations for motions
 ├── 02_Pendulum_Analysis/
 │   ├── README.md              # Physics SHM & Logic Paradox analysis
 │   └── logic.py               # Core pendulum motion engine
